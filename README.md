@@ -213,24 +213,6 @@ N --> O[🏷️ Categories]
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-
-<!-- Add your screenshots here -->
-
-<img src="screenshots/home.png" width="220"/>
-<img src="screenshots/search.png" width="220"/>
-<img src="screenshots/documents.png" width="220"/>
-
-</p>
-
-<p align="center">
-  <i>More screenshots coming soon...</i>
-</p>
-
----
-
 ## 🎨 Customization
 
 EzWallet gives users control over the application's visual appearance.
