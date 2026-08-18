@@ -1,0 +1,6 @@
+{
+  "name": "EzWallet",
+  "description": "Secure digital document organizer and personal credentials vault for carrying verified digital copies of important documents, cards, and contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

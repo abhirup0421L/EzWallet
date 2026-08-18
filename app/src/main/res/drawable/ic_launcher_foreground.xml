@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Shield Base / Card Base -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M28,30C28,26.686 30.686,24 34,24L74,24C77.314,24 80,26.686 80,30L80,78C80,81.314 77.314,84 74,84L34,84C30.686,84 28,81.314 28,78Z" />
+        <!-- Wallet Flap / Accent -->
+        <path
+            android:fillColor="#0284C7"
+            android:pathData="M28,30C28,26.686 30.686,24 34,24L74,24C77.314,24 80,26.686 80,30L80,48L28,48Z" />
+        <!-- Inner Card / Doc -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M34,18C34,16.895 34.895,16 36,16L72,16C73.105,16 74,16.895 74,18L74,26L34,26Z" />
+        <!-- Document Line Details -->
+        <path
+            android:fillColor="#F8FAFC"
+            android:pathData="M36,56L56,56C57.1,56 58,55.1 58,54C58,52.9 57.1,52 56,52L36,52C34.9,52 34,52.9 34,54C34,55.1 34.9,56 36,56Z" />
+        <path
+            android:fillColor="#F8FAFC"
+            android:pathData="M36,66L66,66C67.1,66 68,65.1 68,64C68,62.9 67.1,62 66,62L36,62C34.9,62 34,62.9 34,64C34,65.1 34.9,66 36,66Z" />
+        <path
+            android:fillColor="#F8FAFC"
+            android:pathData="M36,74L50,74C51.1,74 52,73.1 52,72C52,70.9 51.1,70 50,70L36,70C34.9,70 34,70.9 34,72C34,73.1 34.9,74 36,74Z" />
+        <!-- Security Lock Badge on Bottom Right -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M70,58C65.58,58 62,61.58 62,66L62,70C60.9,70 60,70.9 60,72L60,84C60,85.1 60.9,86 62,86L78,86C79.1,86 80,85.1 80,84L80,72C80,70.9 79.1,70 78,70L78,66C78,61.58 74.42,58 70,58ZM70,62C72.21,62 74,63.79 74,66L74,70L66,70L66,66C66,63.79 67.79,62 70,62Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M70,75C68.9,75 68,75.9 68,77C68,77.74 68.41,78.38 69,78.7L69,81C69,81.55 69.45,82 70,82C70.55,82 71,81.55 71,81L71,78.7C71.59,78.38 72,77.74 72,77C72,75.9 71.1,75 70,75Z" />
+    </group>
+</vector>
